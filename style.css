@@ -8,6 +8,7 @@ body {
 
 #mapid {
   height: 100%;
+  z-index=-1
 }
 /* Technically there are two map titles, on the left and on the right,
  * at all times. On a big screen, map title in the right column is not
